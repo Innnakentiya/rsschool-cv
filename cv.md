@@ -46,8 +46,8 @@ function lovefunc(flower1, flower2){
 
 ### Projects
 
-- Image Gallery [click here](https://app.netlify.com/sites/prismatic-gelato-491bde/overview)
-- Memory Game [click here](https://app.netlify.com/sites/clinquant-cheesecake-b67e4e/overview)
+- Image Gallery [click here](https://prismatic-gelato-491bde.netlify.app/)
+- Memory Game [click here](https://clinquant-cheesecake-b67e4e.netlify.app/)
 
 ### Education
 
