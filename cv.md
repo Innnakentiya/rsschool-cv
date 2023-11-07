@@ -6,10 +6,10 @@
 
 ### Contact Information
 
-- ** Location **: Mykolaiv,Ukraine
-- ** E-mail **: [innnakentiya](https://www.innnakentiya@gmail.com)
-- ** Github **: innnakentiya
-- ** Discord **: innnakentiya
+- **Location**: Mykolaiv,Ukraine
+- **E-mail**: [innnakentiya](https://www.innnakentiya@gmail.com)
+- **Github**: innnakentiya
+- **Discord**: innnakentiya
 
 ### Summary
 
