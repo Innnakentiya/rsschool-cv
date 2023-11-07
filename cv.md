@@ -7,7 +7,7 @@
 ### Contact Information
 
 - **Location**: Mykolaiv,Ukraine
-- **E-mail**: [innnakentiya](https://www.innnakentiya@gmail.com)
+- **E-mail**: innnakentiya@gmail.com
 - **Github**: innnakentiya
 - **Discord**: innnakentiya
 
